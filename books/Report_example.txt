@@ -1,0 +1,428 @@
+Bookscan 1.0.0 - Counts most used word
+Analysing book..
+Page 0, found 38 words..
+Page 1, found 4 words..
+Page 2, found 68 words..
+Page 3, found 71 words..
+Page 4, found 217 words..
+Page 5, found 1 words..
+Page 6, found 295 words..
+Page 7, found 416 words..
+Page 8, found 398 words..
+Page 9, found 392 words..
+Page 10, found 335 words..
+Page 11, found 319 words..
+Page 12, found 376 words..
+Page 13, found 365 words..
+Page 14, found 416 words..
+Page 15, found 405 words..
+Page 16, found 402 words..
+Page 17, found 422 words..
+Page 18, found 12 words..
+Page 19, found 321 words..
+Page 20, found 359 words..
+Page 21, found 387 words..
+Page 22, found 351 words..
+Page 23, found 359 words..
+Page 24, found 146 words..
+Page 25, found 267 words..
+Page 26, found 315 words..
+Page 27, found 343 words..
+Page 28, found 418 words..
+Page 29, found 383 words..
+Page 30, found 376 words..
+Page 31, found 434 words..
+Page 32, found 391 words..
+Page 33, found 428 words..
+Page 34, found 330 words..
+Page 35, found 399 words..
+Page 36, found 422 words..
+Page 37, found 16 words..
+Page 38, found 366 words..
+Page 39, found 411 words..
+Page 40, found 391 words..
+Page 41, found 441 words..
+Page 42, found 373 words..
+Page 43, found 211 words..
+Page 44, found 293 words..
+Page 45, found 433 words..
+Page 46, found 11 words..
+Page 47, found 366 words..
+Page 48, found 404 words..
+Page 49, found 397 words..
+Page 50, found 349 words..
+Page 51, found 425 words..
+Page 52, found 378 words..
+Page 53, found 415 words..
+Page 54, found 408 words..
+Page 55, found 394 words..
+Page 56, found 398 words..
+Page 57, found 426 words..
+Page 58, found 421 words..
+Page 59, found 420 words..
+Page 60, found 368 words..
+Page 61, found 399 words..
+Page 62, found 450 words..
+Page 63, found 447 words..
+Page 64, found 397 words..
+Page 65, found 331 words..
+Page 66, found 141 words..
+Page 67, found 61 words..
+Page 68, found 261 words..
+Page 69, found 384 words..
+Page 70, found 357 words..
+Page 71, found 387 words..
+Page 72, found 423 words..
+Page 73, found 378 words..
+Page 74, found 377 words..
+Page 75, found 430 words..
+Page 76, found 420 words..
+Page 77, found 378 words..
+Page 78, found 370 words..
+Page 79, found 413 words..
+Page 80, found 406 words..
+Page 81, found 383 words..
+Page 82, found 13 words..
+Page 83, found 264 words..
+Page 84, found 290 words..
+Page 85, found 357 words..
+Page 86, found 392 words..
+Page 87, found 390 words..
+Page 88, found 354 words..
+Page 89, found 393 words..
+Page 90, found 153 words..
+Page 91, found 101 words..
+Page 92, found 109 words..
+
+BOOKSCAN REPORT FOR: Dickens_Carol.pdf
+Total pages: 93
+Total unique words found (excluding articles, conjuctions and punctuation): 4634
+Most found words, larger than 2 characters:
+ word: was - found: 428 time(s)
+ word: his - found: 416 time(s)
+ word: that - found: 335 time(s)
+ word: scrooge - found: 314 time(s)
+ word: with - found: 268 time(s)
+ word: you - found: 231 time(s)
+ word: said - found: 221 time(s)
+ word: had - found: 204 time(s)
+ word: him - found: 188 time(s)
+ word: have - found: 185 time(s)
+ word: were - found: 178 time(s)
+ word: they - found: 178 time(s)
+ word: not - found: 176 time(s)
+ word: all - found: 132 time(s)
+ word: its - found: 130 time(s)
+ word: christmas - found: 128 time(s)
+ word: this - found: 124 time(s)
+ word: there - found: 123 time(s)
+ word: upon - found: 118 time(s)
+ word: one - found: 108 time(s)
+ word: their - found: 102 time(s)
+ word: what - found: 97 time(s)
+ word: which - found: 96 time(s)
+ word: ghost - found: 94 time(s)
+ word: from - found: 92 time(s)
+ word: when - found: 91 time(s)
+ word: would - found: 84 time(s)
+ word: spirit - found: 84 time(s)
+ word: out - found: 82 time(s)
+ word: them - found: 81 time(s)
+ word: very - found: 78 time(s)
+ word: who - found: 69 time(s)
+ word: man - found: 68 time(s)
+ word: old - found: 67 time(s)
+ word: been - found: 67 time(s)
+ word: her - found: 66 time(s)
+ word: time - found: 65 time(s)
+ word: down - found: 64 time(s)
+ word: little - found: 63 time(s)
+ word: good - found: 63 time(s)
+ word: could - found: 60 time(s)
+ word: know - found: 59 time(s)
+ word: like - found: 59 time(s)
+ word: before - found: 58 time(s)
+ word: are - found: 58 time(s)
+ word: into - found: 56 time(s)
+ word: now - found: 56 time(s)
+ word: she - found: 56 time(s)
+ word: more - found: 55 time(s)
+ word: your - found: 53 time(s)
+ word: about - found: 52 time(s)
+ word: cried - found: 52 time(s)
+ word: scrooge’s - found: 50 time(s)
+ word: bob - found: 50 time(s)
+ word: own - found: 49 time(s)
+ word: again - found: 49 time(s)
+ word: did - found: 48 time(s)
+ word: carol - found: 47 time(s)
+ word: see - found: 47 time(s)
+ word: himself - found: 47 time(s)
+ word: came - found: 45 time(s)
+ word: went - found: 44 time(s)
+ word: hand - found: 43 time(s)
+ word: will - found: 43 time(s)
+ word: made - found: 43 time(s)
+ word: then - found: 43 time(s)
+ word: don’t - found: 42 time(s)
+ word: than - found: 42 time(s)
+ word: door - found: 41 time(s)
+ word: charles - found: 40 time(s)
+ word: dickens - found: 40 time(s)
+ word: might - found: 40 time(s)
+ word: how - found: 40 time(s)
+ word: any - found: 40 time(s)
+ word: every - found: 40 time(s)
+ word: never - found: 39 time(s)
+ word: such - found: 39 time(s)
+ word: some - found: 39 time(s)
+ word: last - found: 38 time(s)
+ word: other - found: 37 time(s)
+ word: head - found: 37 time(s)
+ word: why - found: 37 time(s)
+ word: being - found: 36 time(s)
+ word: come - found: 36 time(s)
+ word: much - found: 36 time(s)
+ word: first - found: 35 time(s)
+ word: hands - found: 35 time(s)
+ word: nothing - found: 35 time(s)
+ word: where - found: 35 time(s)
+ word: through - found: 35 time(s)
+ word: another - found: 35 time(s)
+ word: two - found: 35 time(s)
+ word: here - found: 35 time(s)
+ word: off - found: 34 time(s)
+ word: great - found: 34 time(s)
+ word: merry - found: 33 time(s)
+ word: round - found: 33 time(s)
+ word: looked - found: 32 time(s)
+ word: nephew - found: 32 time(s)
+ word: face - found: 32 time(s)
+ word: cratchit - found: 31 time(s)
+ word: these - found: 31 time(s)
+ word: say - found: 31 time(s)
+ word: though - found: 31 time(s)
+ word: day - found: 30 time(s)
+ word: ever - found: 30 time(s)
+ word: fire - found: 30 time(s)
+ word: light - found: 30 time(s)
+ word: thought - found: 29 time(s)
+ word: poor - found: 29 time(s)
+ word: should - found: 29 time(s)
+ word: it’s - found: 29 time(s)
+ word: too - found: 29 time(s)
+ word: boy - found: 29 time(s)
+ word: mrs - found: 29 time(s)
+ word: returned - found: 28 time(s)
+ word: long - found: 28 time(s)
+ word: can - found: 27 time(s)
+ word: night - found: 27 time(s)
+ word: cold - found: 27 time(s)
+ word: quite - found: 27 time(s)
+ word: done - found: 26 time(s)
+ word: eyes - found: 26 time(s)
+ word: life - found: 26 time(s)
+ word: room - found: 26 time(s)
+ word: well - found: 26 time(s)
+ word: young - found: 26 time(s)
+ word: back - found: 25 time(s)
+ word: only - found: 25 time(s)
+ word: home - found: 25 time(s)
+ word: many - found: 24 time(s)
+ word: people - found: 24 time(s)
+ word: dear - found: 24 time(s)
+ word: sat - found: 24 time(s)
+ word: heart - found: 24 time(s)
+ word: has - found: 24 time(s)
+ word: think - found: 24 time(s)
+ word: bed - found: 24 time(s)
+ word: child - found: 24 time(s)
+ word: tiny - found: 24 time(s)
+ word: spirits - found: 23 time(s)
+ word: after - found: 23 time(s)
+ word: same - found: 23 time(s)
+ word: voice - found: 23 time(s)
+ word: woman - found: 23 time(s)
+ word: way - found: 23 time(s)
+ word: saw - found: 23 time(s)
+ word: enough - found: 23 time(s)
+ word: may - found: 22 time(s)
+ word: three - found: 22 time(s)
+ word: knew - found: 22 time(s)
+ word: business - found: 22 time(s)
+ word: must - found: 22 time(s)
+ word: stood - found: 22 time(s)
+ word: let - found: 22 time(s)
+ word: house - found: 22 time(s)
+ word: tim - found: 22 time(s)
+ word: dark - found: 21 time(s)
+ word: asked - found: 21 time(s)
+ word: place - found: 21 time(s)
+ word: away - found: 21 time(s)
+ word: put - found: 20 time(s)
+ word: marley - found: 20 time(s)
+ word: mind - found: 20 time(s)
+ word: without - found: 20 time(s)
+ word: left - found: 20 time(s)
+ word: got - found: 20 time(s)
+ word: looking - found: 20 time(s)
+ word: marley’s - found: 19 time(s)
+ word: over - found: 19 time(s)
+ word: make - found: 19 time(s)
+ word: look - found: 19 time(s)
+ word: towards - found: 19 time(s)
+ word: past - found: 19 time(s)
+ word: dead - found: 18 time(s)
+ word: gentleman - found: 18 time(s)
+ word: always - found: 18 time(s)
+ word: open - found: 18 time(s)
+ word: children - found: 18 time(s)
+ word: year - found: 18 time(s)
+ word: kind - found: 18 time(s)
+ word: believe - found: 18 time(s)
+ word: replied - found: 18 time(s)
+ word: hope - found: 18 time(s)
+ word: yes - found: 18 time(s)
+ word: fezziwig - found: 18 time(s)
+ word: peter - found: 18 time(s)
+ word: joe - found: 18 time(s)
+ word: anything - found: 17 time(s)
+ word: once - found: 17 time(s)
+ word: hear - found: 17 time(s)
+ word: air - found: 17 time(s)
+ word: among - found: 17 time(s)
+ word: still - found: 17 time(s)
+ word: while - found: 17 time(s)
+ word: behind - found: 17 time(s)
+ word: until - found: 17 time(s)
+ word: told - found: 17 time(s)
+ word: laughed - found: 17 time(s)
+ word: each - found: 16 time(s)
+ word: even - found: 16 time(s)
+ word: coming - found: 16 time(s)
+ word: uncle - found: 16 time(s)
+ word: moment - found: 16 time(s)
+ word: men - found: 16 time(s)
+ word: sir - found: 16 time(s)
+ word: indeed - found: 16 time(s)
+ word: give - found: 16 time(s)
+ word: observed - found: 16 time(s)
+ word: passed - found: 16 time(s)
+ word: heard - found: 16 time(s)
+ word: jacob - found: 16 time(s)
+ word: tell - found: 16 time(s)
+ word: most - found: 16 time(s)
+ word: shall - found: 15 time(s)
+ word: our - found: 15 time(s)
+ word: father - found: 15 time(s)
+ word: pointed - found: 15 time(s)
+ word: world - found: 15 time(s)
+ word: hour - found: 15 time(s)
+ word: bless - found: 15 time(s)
+ word: i’ll - found: 15 time(s)
+ word: bell - found: 15 time(s)
+ word: walked - found: 15 time(s)
+ word: clerk - found: 14 time(s)
+ word: years - found: 14 time(s)
+ word: going - found: 14 time(s)
+ word: appeared - found: 14 time(s)
+ word: better - found: 14 time(s)
+ word: master - found: 14 time(s)
+ word: keep - found: 14 time(s)
+ word: having - found: 14 time(s)
+ word: family - found: 14 time(s)
+ word: something - found: 14 time(s)
+ word: window - found: 14 time(s)
+ word: next - found: 14 time(s)
+ word: seemed - found: 14 time(s)
+ word: half - found: 14 time(s)
+ word: phantom - found: 14 time(s)
+ word: cratchits - found: 14 time(s)
+ word: end - found: 13 time(s)
+ word: name - found: 13 time(s)
+ word: just - found: 13 time(s)
+ word: right - found: 13 time(s)
+ word: live - found: 13 time(s)
+ word: things - found: 13 time(s)
+ word: whole - found: 13 time(s)
+ word: happened - found: 13 time(s)
+ word: happy - found: 13 time(s)
+ word: word - found: 13 time(s)
+ word: full - found: 13 time(s)
+ word: those - found: 13 time(s)
+ word: turned - found: 13 time(s)
+ word: seen - found: 13 time(s)
+ word: exclaimed - found: 13 time(s)
+ word: laugh - found: 13 time(s)
+ word: wish - found: 12 time(s)
+ word: called - found: 12 time(s)
+ word: spoke - found: 12 time(s)
+ word: often - found: 12 time(s)
+ word: stopped - found: 12 time(s)
+ word: eye - found: 12 time(s)
+ word: thing - found: 12 time(s)
+ word: city - found: 12 time(s)
+ word: everything - found: 12 time(s)
+ word: tried - found: 12 time(s)
+ word: god - found: 12 time(s)
+ word: sure - found: 12 time(s)
+ word: alone - found: 12 time(s)
+ word: find - found: 12 time(s)
+ word: streets - found: 12 time(s)
+ word: took - found: 12 time(s)
+ word: heavy - found: 12 time(s)
+ word: together - found: 12 time(s)
+ word: girl - found: 12 time(s)
+ word: show - found: 12 time(s)
+ word: large - found: 11 time(s)
+ word: work - found: 11 time(s)
+ word: because - found: 11 time(s)
+ word: fell - found: 11 time(s)
+ word: there’s - found: 11 time(s)
+ word: present - found: 11 time(s)
+ word: scarcely - found: 11 time(s)
+ word: felt - found: 11 time(s)
+ word: rather - found: 11 time(s)
+ word: suppose - found: 11 time(s)
+ word: dinner - found: 11 time(s)
+ word: held - found: 11 time(s)
+ word: wouldn’t - found: 11 time(s)
+ word: table - found: 11 time(s)
+ word: death - found: 11 time(s)
+ word: words - found: 11 time(s)
+ word: itself - found: 11 time(s)
+ word: that’s - found: 11 time(s)
+ word: high - found: 11 time(s)
+ word: mother - found: 11 time(s)
+ word: stave - found: 10 time(s)
+ word: second - found: 10 time(s)
+ word: hard - found: 10 time(s)
+ word: struck - found: 10 time(s)
+ word: didn’t - found: 10 time(s)
+ word: street - found: 10 time(s)
+ word: beyond - found: 10 time(s)
+ word: part - found: 10 time(s)
+ word: ’em - found: 10 time(s)
+ word: against - found: 10 time(s)
+ word: rest - found: 10 time(s)
+ word: below - found: 10 time(s)
+ word: sound - found: 10 time(s)
+ word: afternoon - found: 10 time(s)
+ word: help - found: 10 time(s)
+ word: whose - found: 10 time(s)
+ word: wall - found: 10 time(s)
+ word: became - found: 10 time(s)
+ word: take - found: 10 time(s)
+ word: strange - found: 10 time(s)
+ word: chain - found: 10 time(s)
+ word: spectre - found: 10 time(s)
+ word: ground - found: 10 time(s)
+ word: set - found: 10 time(s)
+ word: beside - found: 10 time(s)
+ word: bright - found: 10 time(s)
+ word: clear - found: 10 time(s)
+ word: shadows - found: 10 time(s)
+ word: self - found: 10 time(s)
+ word: company - found: 10 time(s)
+ word: martha - found: 10 time(s)
+ word: niece - found: 10 time(s)
